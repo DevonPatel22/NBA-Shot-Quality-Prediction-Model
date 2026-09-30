@@ -1,4 +1,4 @@
-# NBA Expected Shot Make Probability ($xFG\%$) Model
+# NBA Expected Shot Make Probability Model
 
 An analytics project built in R to evaluate NBA shot quality and estimate expected field goal percentage using player tracking and contextual situational data.
 
